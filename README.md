@@ -1,4 +1,4 @@
-🚢 Ship Performance Dashboard (Power BI)
+## 🚢 Ship Performance Dashboard (Power BI)
 📌 Overview
 
 This project is a Power BI dashboard designed to analyze and monitor ship performance across different vessel types such as:
